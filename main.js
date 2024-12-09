@@ -24,7 +24,7 @@ let ballAngle;
 
 // Bloc Specs
 const colours = ["red", "orange", "yellow", "green", "blue", "purple"];
-const blocWidth = screenBlock * 1.2;
+const blocWidth = screenBlock * 1.55;
 const blocSpacing = screenBlock * 0.1;
 let blocs = [];
 
